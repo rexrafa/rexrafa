@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**rexrafa/rexrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Backbase as a Sr. System Engineer
+- 💬 Ask me about AWS, Kubernetes, IaC and other things
+- 📫 How to find me:
+  - [LinkedIn](https://www.linkedin.com/in/rafavinicius/)
+  - [Strava](https://www.strava.com/athletes/51061383)
+- ⚡ Fun fact: 
+  - I really enjoy go fishing
+  - I love playing football and other activities like running and cycling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+`Certifications`
+
+[Certification validaton](https://www.youracclaim.com/users/rafael-oliveira.b068d1d3)
+
+
+![](img/aws-certified-solutions-architect-associate.png)
+![](img/aws-certified-solutions-architect-professional.png)
+![](img/aws-certified-devops-engineer-professional.png)
+![](img/hashicorp-certified-terraform-associate.png)
+
+---
+
+![rexrafa's github stats](https://github-readme-stats.vercel.app/api?username=rexrafa&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexrafa)

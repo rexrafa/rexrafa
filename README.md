@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Backbase as a Sr. System Engineer
+- 🔭 I’m currently working on MessageBird as a Sr. infrastructure Engineer AWS
 - 💬 Ask me about AWS, Kubernetes, IaC and other things
 - 📫 How to find me:
   - [LinkedIn](https://www.linkedin.com/in/rafavinicius/)
   - [Strava](https://www.strava.com/athletes/51061383)
 - ⚡ Fun fact: 
   - I really enjoy go fishing
-  - I love playing football and other activities like running and cycling
+  - I love playing football and other activities like running, climb and cycling
 
 
 ---

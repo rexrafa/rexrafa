@@ -14,7 +14,11 @@
 ---
 `Certifications`
 
-[Certification validaton](https://www.youracclaim.com/users/rafael-oliveira.b068d1d3)
+[Certification validaton](https://www.credly.com/users/rafael-vinicius-cardoso-de-oliveira/badges#credly)
+
+[Certification validaton - old](https://www.youracclaim.com/users/rafael-oliveira.b068d1d3)
+
+
 
 
 <p align="left">

@@ -17,11 +17,13 @@
 [Certification validaton](https://www.youracclaim.com/users/rafael-oliveira.b068d1d3)
 
 
-<img src="img/aws-certified-solutions-architect-associate.png" width="100" height="100" />
-<img src="img/aws-certified-cloudops-engineer-associate.png" width="100" height="100" />
-<img src="img/aws-certified-developer-associate.png" width="100" height="100" />
-<img src="img/aws-certified-solutions-architect-professional.png" width="100" height="100" />
-<img src="img/aws-certified-devops-engineer-professional.png" width="100" height="100" />
-<img src="img/aws-certified-security-specialty.png" width="100" height="100" />
-<img src="img/hashicorp-certified-terraform-associate.png" width="100" height="100" />
+<p align="left">
+  <img src="img/aws-certified-solutions-architect-associate.png" width="100" height="100" style="margin-right:8px;" />
+  <img src="img/aws-certified-cloudops-engineer-associate.png" width="100" height="100" style="margin-right:8px;" />
+  <img src="img/aws-certified-developer-associate.png" width="100" height="100" style="margin-right:8px;" />
+  <img src="img/aws-certified-solutions-architect-professional.png" width="100" height="100" style="margin-right:8px;" />
+  <img src="img/aws-certified-devops-engineer-professional.png" width="100" height="100" style="margin-right:8px;" />
+  <img src="img/aws-certified-security-specialty.png" width="100" height="100" style="margin-right:8px;" />
+  <img src="img/hashicorp-certified-terraform-associate.png" width="100" height="100" />
+</p>
 

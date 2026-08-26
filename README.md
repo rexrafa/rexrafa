@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [Loka](https://www.loka.com/) as a Sr. DevOps Engineer
+- 🔭 I’m currently working on [Fanvue]([https://www.loka.com/](https://www.fanvue.com/)) as a Sr. Platform Engineer
 - 💬 Ask me about AWS, Kubernetes, IaC and other things
 - 📫 How to find me:
   - [LinkedIn](https://www.linkedin.com/in/rafavinicius/)
   - [Strava](https://www.strava.com/athletes/51061383)
 - ⚡ Fun fact: 
-  - Decided to move from the cold Amsterdam to the beautiful and warm Ubatuba.
-  - I love playing football and other activities like running, climb and cycling
+  - Decided to move from cold Amsterdam to beautiful Florianópolis.
+  - I love playing football and other activities like running, climbing, and cycling
   - BBQ Master
 
 ---
